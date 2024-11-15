@@ -1,9 +1,14 @@
+@font-face {
+  font-family: 'Cubic11';
+  src: url('Cubic_11.woff') format('woff');
+}
+
 body {
   margin: 0;
   padding: 0;
   background-color: black;
   color: white;
-  font-family: 'Courier New', monospace;
+  font-family: 'Cubic11', monospace;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,6 +20,9 @@ body {
   position: relative;
   width: 100%;
   height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #background {
@@ -31,12 +39,12 @@ body {
 #dialogue-box {
   position: relative;
   z-index: 2;
-  padding: 20px;
   text-align: center;
+  max-width: 80%;
 }
 
 #dialogue-text {
-  font-size: 1.5rem;
+  font-size: 2rem;
   white-space: pre-wrap;
   line-height: 1.8;
 }

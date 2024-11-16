@@ -5,8 +5,9 @@ const dialogues = [
   { text: "突然，我感到一陣暈眩，倒了過去......", image: "image4.jpg" },
   { text: "「哥，這床太舒服了，你睡著了嗎？」", image: "image5.jpg" },
   { text: "我瞄了眼手機，現在是2024年11月22日的晚上九點。", image: "image5.jpg" },
-  { text: "「快起來吧，等等就要揭曉小天使小主人的答案了，你的小天使還說要送150元星巴克禮券給你呢！」", image: "image5.jpg" },
-  { text: "-- THE END --", image: "image5.jpg" }
+  { text: "「快起來吧，等等就要揭曉小天使小主人的答案了，還有小天使還說要送150元星巴克禮券給他的小主人呢！」", image: "image5.jpg" },
+  { text: "-- THE END --", image: "image5.jpg" },
+  { text: "-- 請在揭曉當天拿著破關截圖向你的小天使領取星巴克禮券！ --", image: "image5.jpg"}
 ];
 
 let currentDialogueIndex = 0;

@@ -1,5 +1,5 @@
 const dialogues = [
-  { text: "今天是2024年12月31日，禮拜二。。", image: "image1.jpg" },
+  { text: "今天是2024年12月31日，禮拜二。", image: "image1.jpg" },
   { text: "中午，我一如往常地來到哎哎咖啡打工，協助點餐、做餐。", image: "image1.jpg" },
   { text: "「哈囉！」我推開門，熱情地打招呼－－", image: "image1.jpg" },
   { text: "空無一人。", image: "image2.jpg" },

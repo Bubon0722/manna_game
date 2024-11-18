@@ -9,7 +9,7 @@ const dialogues = [
   { text: "仍然一個人都沒有。", image: "image2.jpg" },
   { text: "沒有客人、沒有伯宜哥、沒有團契的弟兄姊妹們。", image: "image2.jpg" },
   { text: "我心想，大家是都去跨年了嗎？", image: "image2.jpg" },
-  { text: "「算了，等等還有那超鋼的財務管理，我先去上課好了。」", image: "image2.jpg" },
+  { text: "「算了，等等還有那超鋼的行銷管理，我先去上課好了。」", image: "image2.jpg" },
   { text: "「靠杯，這門怎麼突然鎖住了，還轉不開！」", image: "image3.jpg" },
   { text: "「而且密碼鎖什麼時候反過來裝了？？」", image: "image4.jpg" },
   { text: "我拿起手機，準備打電話給伯宜哥求救，結果發現......", image: "image2.jpg" },
